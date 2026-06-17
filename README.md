@@ -86,6 +86,6 @@ Successfully cleaned the dataset and prepared it for further analysis while main
 
 ## Author
 
-Neha Mooli
+Neharshitha Mooli
 B.Tech ECE Student
 Aspiring Data Analyst
